@@ -1,0 +1,23 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/weapon.cs">
+    <Files>
+      <File FileName="Assets/Scripts/fighter.cs" Line="40" Column="31" />
+      <File FileName="Assets/Scripts/mover.cs" />
+      <File FileName="Assets/Scripts/enemy.cs" Line="88" Column="32" />
+      <File FileName="Assets/Scripts/enemyHitbox.cs" />
+      <File FileName="Assets/Scripts/player.cs" Line="78" Column="25" />
+      <File FileName="Assets/Scripts/weapon.cs" Line="18" Column="29" />
+      <File FileName="Assets/Scripts/gameManager.cs" Line="17" Column="11" />
+      <File FileName="Assets/Scripts/colliable.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/characterMenu.cs" Line="63" Column="55" />
+      <File FileName="Assets/Scripts/chest.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0d57d2e7-71a4-4446-bf7b-078cf4cb3672" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
